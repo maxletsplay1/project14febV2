@@ -1,5 +1,5 @@
 <template>
-<div class="footer w-full flex gap-4 justify-center text-xl mb-2">
+<div class="footer w-full flex gap-4 justify-center text-xl mb-2 text-black">
   <a
       class="underline underline-offset-4 hover:no-underline"
       href="https://github.com/maxletsplay1"
